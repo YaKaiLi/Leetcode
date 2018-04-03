@@ -1,5 +1,8 @@
 #include <iostream>
 #include <string>
+#include <algorithm>
+#include <map>
+#include <vector>
 #include <math.h>
 using namespace std;
 
